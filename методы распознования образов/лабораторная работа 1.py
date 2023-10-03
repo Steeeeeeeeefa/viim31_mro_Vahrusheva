@@ -1,6 +1,5 @@
 import numpy as np
 import matplotlib.pyplot as plt
-from math import pi
 
 class Triangle:
     def __init__(self, v1, v2, v3):
