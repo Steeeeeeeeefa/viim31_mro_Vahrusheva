@@ -31,7 +31,7 @@ class Triangle:
         return self.v1, self.v2, self.v3
 
 classes = []
-colors = ['yellow', 'orange', 'cyan', 'blue', 'purple', 'red', 'gray']
+colors = ['yellow', 'pink', 'black', 'blue', 'purple', 'red', 'green']
 
 try:
     with open('data/class_tr.txt', 'r') as data:
